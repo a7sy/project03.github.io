@@ -87,7 +87,7 @@
     bottom: 50px;
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (min-width: 360px) {
     .carousel-caption h5 {
         font-size: 15px;
         text-transform: uppercase;
