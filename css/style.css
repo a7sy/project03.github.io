@@ -1,7 +1,4 @@
-@import {
-    url(./css/fonts.css)
-}
-
+@import url(fonts.css);
 .carousel-item {
     height: 100vh;
     min-height: 300px;
